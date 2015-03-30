@@ -1,5 +1,6 @@
 # Summary
 
+* [introduction](README.md)
 * [Prefix](prefix.md)
 * [Readme](README.md)
 * [Introduction](introduction.md)
@@ -33,3 +34,4 @@
 * [Chapter Five：融资](chapter_five.md)
 * [Chapter Six：孵化计划](chapter_six.md)
 * [End](end.md)
+
