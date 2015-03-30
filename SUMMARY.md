@@ -27,7 +27,9 @@
    * [内部孵化与外部孵化-1](chapter_one/insideincubatorone.md)
    * [内部孵化与外部孵化-2](chapter_one/insideincubatortwo.md)
    * [内部孵化与外部孵化-3](chapter_one/insideincubatorthree.md)
+   * [序章：国内孵化器案例](chapter_one/chineseincubator.md)
 * [Chapter Two：如何在国内做好互联网孵化器](chapter_two.md)
+* 
 * Chapter Three：孵化器客户
 * [Chapter Four：孵化器服务、产品及用户](chapter_four.md)
 * Chapter Five：融资
