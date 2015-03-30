@@ -76,7 +76,7 @@
    * [开发-1：初创团队如何提高工作效率？](chapter_four/efficiency.md)
    * [开发-2：服务提供商](chapter_four/serviceprovider.md)
    * [推广-1：海外市场拓展](chapter_four/overseaspromote.md)
-   * [推广-2：从WWDC，到如何做好初创产品发布会](chapter_four/.md)
+   * [推广-2：从WWDC，到如何做好初创产品发布会](chapter_four/wwdc.md)
    * [推广-3：适合创业听的Podcast](chapter_four/podcast.md)
    * [推广-4： Dumb Ways to Die-2：推广](chapter_four/.dumbwaytodie2.md)
    * [推广-5：指数级增长与快乐](chapter_four/happiness.md)
