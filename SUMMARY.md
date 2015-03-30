@@ -81,6 +81,9 @@
    * [推广-4： Dumb Ways to Die-2：推广](chapter_four/dumbwaytodie2.md)
    * [推广-5：指数级增长与快乐](chapter_four/happiness.md)
 * [Chapter Five：融资](chapter_five.md)
+   * [投资人与对接会](chapter_five/linkvc.md)
+   * [融资的痛点](chapter_five/funding.md)
+   * [天使投资互联网化](chapter_five/angelist.md)
 * [Chapter Six：孵化计划](chapter_six.md)
 * [End](end.md)
 
