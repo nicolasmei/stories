@@ -72,7 +72,7 @@
    * [活动-1：Hackaton](chapter_four/hackathon.md)
    * [活动-2：技术活动承接](chapter_four/techevent.md)
    * [导师对接](chapter_four/mentorship.md)
-   * [设计：创业项目与用户体验咨询](chapter_four/.md)
+   * [设计：创业项目与用户体验咨询](chapter_four/ue.md)
    * [开发-1：初创团队如何提高工作效率？](chapter_four/efficiency.md)
    * [开发-2：服务提供商](chapter_four/serviceprovider.md)
    * [推广-1：海外市场拓展](chapter_four/overseaspromote.md)
