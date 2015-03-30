@@ -1,5 +1,5 @@
 # Summary
 
 * introduction
-* Chapter One：不要说你懂Y Combinator
+* [Chapter One：不要说你懂Y Combinator](chapter_one.md)
 
