@@ -12,6 +12,7 @@
    * [创始人：Paul Graham](chapter_one/paulgraham.md)
    * [25岁左右](chapter_one/25.md)
    * [11000+3000x](chapter_one/11000.md)
+   * [创意、执行与风投](chapter_one/idea.md)
 * [Chapter Two：如何在国内做好互联网孵化器](chapter_two.md)
 * Chapter Three：孵化器客户
 * [Chapter Four：孵化器服务、产品及用户](chapter_four.md)
