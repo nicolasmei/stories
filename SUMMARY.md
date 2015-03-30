@@ -3,7 +3,6 @@
 * [Prefix](prefix.md)
 * [Readme](README.md)
 * [Introduction](introduction.md)
-* [introduction](introduction.md)
 * [Chapter One：不要说你懂Y Combinator](chapter_one.md)
    * [Paul Graham的退休和YC的核心](chapter_one/retire.md)
    * [YC孵化项目](chapter_one/ycstartup.md)
