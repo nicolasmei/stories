@@ -45,6 +45,7 @@
    * [运营-5：一个适合国内孵化器的运营模式](chapter_two/operation5.md)
    * [运营-6：运营是为了不再运营，推广是为了不再推广](chapter_two/operation6.md)
    * [运营-7：跟随强者，抛弃弱者](chapter_two/operation7.md)
+   * [推广：孵化器Blog](chapter_two/incubatorpromotion.md)
 * [Chapter Three：孵化器客户](chapter_three.md)
 * [Chapter Four：孵化器服务、产品及用户](chapter_four.md)
 * [Chapter Five：融资](chapter_five.md)
