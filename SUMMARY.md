@@ -32,6 +32,7 @@
    * [VC的品牌推广](chapter_one/vcpromotion.md)
    * [中国加速](chapter_one/chinaaccelerator.md)
 * [Chapter Two：如何在国内做好互联网孵化器](chapter_two.md)
+   * [如何做一家不亏损的孵化器](chapter_two/breakeven.md)
 * [Chapter Three：孵化器客户](chapter_three.md)
 * [Chapter Four：孵化器服务、产品及用户](chapter_four.md)
 * [Chapter Five：融资](chapter_five.md)
