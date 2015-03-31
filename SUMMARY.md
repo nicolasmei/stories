@@ -1,7 +1,7 @@
 # Summary
 
-* [introduction](README.md)
-* [introduction](introduction2.md)
+* [Readme](README.md)
+* [introduction](introduction.md)
 * [Prefix](prefix.md)
 * [Introduction](introduction.md)
 * [Chapter One：不要说你懂Y Combinator](chapter_one.md)
@@ -95,5 +95,4 @@
    * [投后服务](chapter_six/service.md)
    * [公司注册](chapter_six/companyregister.md)
 * [End](end.md)
-* [Readme](README.md)
 
