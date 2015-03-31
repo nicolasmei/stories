@@ -1,7 +1,6 @@
 # Summary
 
 * [Readme](README.md)
-* [introduction](introduction.md)
 * [Prefix](prefix.md)
 * [Introduction](introduction.md)
 * [Chapter One：不要说你懂Y Combinator](chapter_one.md)
