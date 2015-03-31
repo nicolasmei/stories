@@ -90,5 +90,4 @@
    * [项目筛选](chapter_six/projectselection.md)
    * [投后服务](chapter_six/service.md)
    * [公司注册](chapter_six/companyregister.md)
-* [End](end.md)
 
