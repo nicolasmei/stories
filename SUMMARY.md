@@ -1,6 +1,5 @@
 # Summary
 
-* [Prefix](prefix.md)
 * [Introduction](introduction.md)
 * [Chapter One：不要说你懂Y Combinator](chapter_one.md)
    * [Paul Graham的退休和YC的核心](chapter_one/retire.md)
