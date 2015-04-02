@@ -1,7 +1,7 @@
  "pluginsConfig": {
         "fontSettings": {
             "theme": "sepia", "night" or "white",
-            "family": "Microsoft YaHei",
+            "family": "YouYuan",
             "size": 1 to 4
         }
     },
