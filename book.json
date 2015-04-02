@@ -1,7 +1,7 @@
  "pluginsConfig": {
         "fontSettings": {
-            "theme": "sepia", "night" or "white",
+            "theme": "sepia",
             "family": "SimSun",
-            "size": 1 to 4
+            "size": 2
         }
     },
